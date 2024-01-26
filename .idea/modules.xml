@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Introduction to Java All solutions.iml" filepath="$PROJECT_DIR$/Introduction to Java All solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure And Algorithm/Data Structure And Algorithm.iml" filepath="$PROJECT_DIR$/Data Structure And Algorithm/Data Structure And Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Java All solutions/Data Structure and Algorithm/Data Structure and Algorithm.iml" filepath="$PROJECT_DIR$/Introduction to Java All solutions/Data Structure and Algorithm/Data Structure and Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure and Algorithm./Data Structure and Algorithm..iml" filepath="$PROJECT_DIR$/Data Structure and Algorithm./Data Structure and Algorithm..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Java All solutions/Introduction to Java All solutions.iml" filepath="$PROJECT_DIR$/Introduction to Java All solutions/Introduction to Java All solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn CodeStudio Solution/cn CodeStudio Solution.iml" filepath="$PROJECT_DIR$/cn CodeStudio Solution/cn CodeStudio Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java MyCodeNotes.iml" filepath="$PROJECT_DIR$/.idea/java MyCodeNotes.iml" />
     </modules>
   </component>
 </project>
