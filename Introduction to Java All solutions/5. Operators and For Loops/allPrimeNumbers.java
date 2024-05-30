@@ -17,7 +17,6 @@ public class allPrimeNumbers {
             if(isPrime){
                 System.out.println(i);
             }
-
         }
     }
 }

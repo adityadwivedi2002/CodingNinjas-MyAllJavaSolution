@@ -1,4 +1,5 @@
-//
+//Jab har execution mein fixed number of inputs liye jayenge, jaise ki is case mein teen, toh hum kahte
+// hain ki time complexity O(1) hai. Chahe hum kitne bhi executions kyun na karein, inputs ka number fix rahega.
 
 import java.util.Scanner;
 public class Average_Marks {

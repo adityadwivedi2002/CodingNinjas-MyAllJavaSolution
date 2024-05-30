@@ -1,4 +1,10 @@
 package Assignment;
+
+//Condition checks ke liye O(1) time lagta hai.
+//Loop ke liye O(n) time lagta hai.
+//Overall, code ka time complexity O(n) hai, jahan n power ka value hai.
+
+
 import java.util.Scanner;
 public class findPowerOfNumber {
     public static void main(String[] args) {

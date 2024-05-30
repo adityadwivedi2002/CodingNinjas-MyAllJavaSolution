@@ -14,6 +14,5 @@ public class find_Character_Case {
         else {
             System.out.print("-1");
         }
-
     }
 }

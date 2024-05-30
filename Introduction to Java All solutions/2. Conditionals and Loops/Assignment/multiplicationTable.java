@@ -1,5 +1,7 @@
 package Assignment;
 
+//Is code ka time complexity O(1) hai. Kyunki yeh ek loop mein 10 iterations karta hai irrespective of input value n. So, input size n ke saath koi change nahi hai, sirf 10 constant iterations hote hain.
+
 import java.util.Scanner;
 
 public class multiplicationTable {
